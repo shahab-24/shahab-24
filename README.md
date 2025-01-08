@@ -75,7 +75,11 @@ Feel free to check out my repositories and join me on my learning journey!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahab-24&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shahab-24&theme=radical)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shahab-24&theme=radical&cache_seconds=86400)
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-24&layout=compact&theme=radical)
 
