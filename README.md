@@ -71,16 +71,15 @@ Feel free to check out my repositories and join me on my learning journey!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shahab-24&color=blue)
 
-## My GitHub Stats
+### Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahab-24&show_icons=true&theme=radical)
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/shahab-24"><img src="https://github-readme-stats.vercel.app/api?username=shahab-24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="shahab-24's GitHub stats" /></a>
 
+<a href="http://www.github.com/shahab-24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shahab-24&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shahab-24&theme=radical&cache_seconds=86400)
+<a href="http://www.github.com/shahab-24"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shahab-24&bg_color=0f172a&color=ffffff&line=84cc16&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-24&layout=compact&theme=radical)
-
+<a href="https://github.com/shahab-24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-24&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
