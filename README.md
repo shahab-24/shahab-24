@@ -36,25 +36,27 @@
 - 🛡️ **Authentication & Security**: JWT, OAuth, role-based access control.  
 - 💳 **Payment Gateway Integration**: Stripe, Razorpay, and other APIs.  
 - ⚡ **TanStack Query**: Mastering advanced state management and data fetching.  
+- ⚛️ **Exploring Next.js**: Learning advanced **server-side rendering (SSR)** and **static site generation (SSG)**.  
+- 📊 **MongoDB Aggregation Pipeline**: Optimizing queries for large datasets.  
 
 ---
 
 ## 📁 Featured Projects  
 ### 🚀 **HostelHub**  
 > 🏠 A modern **MERN stack** web application that simplifies hostel booking. Features **JWT authentication**, **dynamic filtering**, and a **secure payment system**.  
-🔗 **Live Demo**: [HostelHub](#) | 🛠 **Repo**: [GitHub](#)  
+🔗 **Live Demo**: [HostelHub](https://hostelhub-f7524.web.app) | 🛠 **Repo**: [GitHub](https://github.com/shahab-24/HostelHub-client)  
 
 ### 🌍 **Eco Adventure Blog**  
 > A **blogging platform** showcasing eco-friendly travel experiences. Includes **Firebase authentication** and **responsive UI**.  
-🔗 **Live Demo**: [Eco Adventure Blog](#) | 🛠 **Repo**: [GitHub](#)  
+🔗 **Live Demo**: [Eco Adventure Blog](https://diving-story.web.app) | 🛠 **Repo**: [GitHub](https://github.com/shahab-24/Diving-Story)  
 
-### 💼 **Job Portal**  
-> A **MERN stack** job listing website with **secure authentication** for job seekers and recruiters.  
-🔗 **Live Demo**: [Job Portal](#) | 🛠 **Repo**: [GitHub](#)  
+### 🍽️ **Food Management System**  
+> A **restaurant management app** to streamline food orders, inventory, and user management. Built with **MERN stack** and includes **admin dashboard** for seamless operations.  
+🔗 **Live Demo**: [Food Management](https://al-madina-foods.web.app) | 🛠 **Repo**: [GitHub](https://github.com/shahab-24/AL-MADINA-FOODS)  
 
 ### 🎬 **Movie Portal**  
 > A **CRUD-enabled** movie database featuring **dynamic themes** and a **responsive UI**.  
-🔗 **Live Demo**: [Movie Portal](#) | 🛠 **Repo**: [GitHub](#)  
+🔗 **Live Demo**: [Movie Portal](https://explore-world-movies.web.app) | 🛠 **Repo**: [GitHub](https://github.com/shahab-24/Explore-World-s-Movies)  
 
 ---
 
